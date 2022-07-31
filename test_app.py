@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+
 import re, argparse
 from smartcard.System import readers
 import datetime, sys
