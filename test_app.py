@@ -1,4 +1,4 @@
-
+# this is testing script. and under developing
 import re, argparse
 from smartcard.System import readers
 import datetime, sys
